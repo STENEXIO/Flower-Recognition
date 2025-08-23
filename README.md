@@ -1,4 +1,4 @@
-# FlowerVision 🌺
+# FlowerVision 🌹​
 
 A deep learning project for automatic flower recognition using
 TensorFlow and CNNs. Classifies flower images from the Kaggle Flowers
@@ -43,7 +43,7 @@ pip install tensorflow numpy matplotlib kagglehub
 1.  **Clone the Repository**:
 
     ``` bash
-    git clone https://github.com/your-username/FlowerVision.git
+    git clone https://github.com/shahin-ro/FlowerVision.git
     cd FlowerVision
     ```
 
@@ -92,5 +92,3 @@ This project is licensed under the MIT License. See the
 -   [Kaggle](https://www.kaggle.com) for the dataset
 -   TensorFlow team for the awesome library
 -   Community for inspiration and support
-
-Happy coding! 🌷
